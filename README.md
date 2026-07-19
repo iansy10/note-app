@@ -1,1 +1,1 @@
-# note-app-pure-javascript
+# note-app
